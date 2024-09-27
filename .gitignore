@@ -86,3 +86,5 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+rare-style-385113-66aef184c962.json
+package-lock.json
